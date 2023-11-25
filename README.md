@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ㅎㅇㅎㅇ&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 <!--
 **gao01java/gao01java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
