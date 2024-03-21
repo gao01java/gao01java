@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=코딩잘하고싶다&fontSize=90)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gao01java/gao01java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
