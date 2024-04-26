@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=코딩잘하고싶다&fontSize=90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gao01java))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gao01java))<br>
 <a href="https://www.instagram.com/g_0123_jl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 <!--
 **gao01java/gao01java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
