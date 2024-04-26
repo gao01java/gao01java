@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=코딩잘하고싶다&fontSize=90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gao01java))<br>
-<a href="https://www.instagram.com/g_0123_jl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gao01java)] -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gao01java&layout=compact)](https://github.com/gao01java/github-readme-stats)
+<br>
+<a href="https://www.instagram.com/g_0123_jl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><h2>좋아하는것들</h2>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
