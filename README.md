@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=코딩잘하고싶다&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/gao01java))
-<a href="https://www.instagram.com/](https://www.instagram.com/g_0123_jl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/g_0123_jl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **gao01java/gao01java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
